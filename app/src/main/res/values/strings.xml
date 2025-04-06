@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Penghitung BMI (Indeks Massa Tubuh)</string>
+    <string name="berat_badan" translatable="false">Berat Badan</string>
+    <string name="tinggi_badan" translatable="false">Tinggi Badan</string>
+</resources>
